@@ -6,6 +6,6 @@ function sum(n) {
 
   return ans;
 }
-const A = sum(80);
+const A = sum(100);
 
 console.log(A);
